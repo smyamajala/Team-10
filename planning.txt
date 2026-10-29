@@ -1,1 +1,9 @@
+1. importing data/conversion (file handling)
+2. Data cleaning/scaling --> clearing empty/NULL values, wrong formats, outliers, anything that might compromise modeling 
+3. Regression --> take the data from 2 and create relationships and regression lines based on it 
 
+Main Implementation
+Main goal is to output the baseline predictions vs the CNN as a table 
+  - table formatting
+  - arithmetic
+  - data handling/file handling 
